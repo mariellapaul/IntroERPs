@@ -27,7 +27,7 @@ h = name_subj{1}
 
 %% structures
 
-data.name = 'mariella';
+subject.name = 'mariella';
 subject.age = 26;
 subject.cell = {1 2 3 4};
 
