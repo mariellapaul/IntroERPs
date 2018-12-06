@@ -12,3 +12,21 @@ We will start with a brief introduction of EEG data in general and specifically 
 
 # Structure of this repository
 
+In this repository, you'll find the slides of this class as well as the code we used or developed during this class.
+
+There are two main scripts for this class: matlab_programming_principles.m and eeg_analysis_pipeline.m. The slides and code titled Matlab programming principles were designed to give students not familiar with Matlab a very brief introduction to the programming principles needed for this course. The main part of this course was hands-on, where each student developed their own pipeline for EEG analyses. I've posted my solution here as eeg_analysis_pipeline. The rest of the code are functions called by eeg_analysis_pipeline.m.
+
+# Creative Commons license
+
+All of these materials are licensed under Creative Commons CC by-SA 4.0, which means you can share and adapt, as long as you attribute the source (in this case, me) and share alike and non-commercially. If you'd like to share or re-use these materials, please feel free do to so by attributing them to:
+
+Mariella Paul "A Hands-On Introduction to Event-Related Potentials" [CC by-SA 4.0]
+
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+# Questions and Comments
+If you have any questions or comments, please feel free to contact me under
+
+paulm@cbs.mpg.de
+
+This was the first time I've given this class and there are surely many things that could be improved and that I'd like to improve before teaching this class again. I'd be very grateful for any suggestions or constructive criticism you might have.
