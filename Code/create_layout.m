@@ -11,6 +11,8 @@ lay.label = {'Oz' 'POz' 'Pz' 'PO3' 'C5' 'P3' 'P7' 'CP5' 'CPz' 'Cz' ...
 
 cfg = [];
 %cfg.image  = 'easycapm11.png'; % use the photo as background
+% you'll find this image, as well as other standard layouts on the FieldTrip homepage
+% http://www.fieldtriptoolbox.org/template/layout/
 cfg.layout = lay; % this is the layout structure that you created with ft_prepare_layout
 ft_layoutplot(cfg);
 lay.outline = lay.mask;
